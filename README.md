@@ -1,2 +1,5 @@
-# cron-expression-generator-translator
-Cron Expression Generator &amp; Translator will helps you create and understand cron expressions.
+# Cron Expression Generator & Translator [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>Cron Expression Generator &amp; Translator will helps you create and understand cron expressions.
+
+Try demo: https://tools.waytolearnx.com/cron-expression-generator-translator
